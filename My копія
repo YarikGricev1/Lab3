@@ -5,4 +5,6 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/YarikGricev1/Lab3.git
 git push -u origin main
-CHANGING SOMETHING
+CHANGING SOMETHING 
+Changing in branch
+
